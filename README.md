@@ -3,7 +3,7 @@ A python script to make the process of connecting to forticlient VPN automatic a
 
 ## Instructions to use
 1. Obtain forticlient for Ubuntu/Debian. For IIIT Delhi users, see this [link](http://it.iiitd.edu.in/VPN.pdf).
-2. Clone this Repo and copy forticlientsslvpn_cli into this repo.
+2. Clone this Repo and move VPN_connecter.py in the same directory as forticlientsslvpn_cli.
 3. Install pexpect by pip  `pip install pexpect    `
 4. Edit VPN_connecter.py to enter your username and password.
 5. run using `python VPN_connecter.py `
