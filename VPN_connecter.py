@@ -6,7 +6,7 @@
 # INSTRUCTIONS                                                        #
 #                                                                     #
 # 1. pip install pexpect                                              #
-# 2. copy forticlientsslvpn_cli in the same directory as this script. #
+# 2. Move this script to the same directory as forticlientsslvpn_cli  #
 # 3. Enter your VPN/domain credentials in this script and save it.    #
 # 4. Run this script using the command `python connect_vpn.py`        #
 #                                                                     #
